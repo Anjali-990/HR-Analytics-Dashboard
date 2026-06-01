@@ -235,7 +235,7 @@ This dashboard helps HR teams:
 
 ## Resume Project Summary
 
-## Developed an HR Analytics Dashboard using SQL, Excel, and Tableau to analyze employee attrition, workforce demographics, compensation trends, and job satisfaction metrics. Created KPI-driven visualizations and generated actionable insights to support employee retention and workforce planning.
+Developed an HR Analytics Dashboard using SQL, Excel, and Tableau to analyze employee attrition, workforce demographics, compensation trends, and job satisfaction metrics. Created KPI-driven visualizations and generated actionable insights to support employee retention and workforce planning.
 
 ## Author
 
